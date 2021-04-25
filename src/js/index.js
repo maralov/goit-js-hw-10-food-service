@@ -1,5 +1,5 @@
 import '../styles.css';
 
 import './theme-switcher'
-import './renderMenuList'
+import './render-menu-list'
 
